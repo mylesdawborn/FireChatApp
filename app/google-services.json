@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406996871551",
+    "firebase_url": "https://firechatapp-1af24.firebaseio.com",
+    "project_id": "firechatapp-1af24",
+    "storage_bucket": "firechatapp-1af24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406996871551:android:52f7f0c66aeca2de",
+        "android_client_info": {
+          "package_name": "com.miliemakes.firechatfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406996871551-fnkbt2d80col8or2rtaqtp95687nblnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInlZtEahSzTJBgtN88qYebxvHEsNFJ9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
